@@ -1,5 +1,5 @@
 # loggers #
-##A Python library for automatic logging in some websites with some practical functions##
+##A Python library for automatic loging in some websites with some practical functions##
 
 ####Author: ####
   PytLab **<shaozhengjiang@gmail.com>**
